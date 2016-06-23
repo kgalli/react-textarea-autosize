@@ -11,11 +11,6 @@
   "eslintConfig": {
     "extends": "prometheusresearch"
   },
-  "babel": {
-    "presets": [
-      "prometheusresearch"
-    ]
-  },
   "keywords": [
     "react",
     "react-component",
@@ -39,5 +34,39 @@
     "eslint-config-prometheusresearch": "^0.2.0",
     "react": "^15.0.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "gitHead": "af9124ade58e85bf415a5b6d41848009f1975ac8",
+  "bugs": {
+    "url": "https://github.com/andreypopp/react-textarea-autosize/issues"
+  },
+  "_id": "react-textarea-autosize@4.0.2",
+  "scripts": {},
+  "_shasum": "67eeb0794e924719682c97b855315556c883c858",
+  "_from": "react-textarea-autosize@>=4.0.2 <5.0.0",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.1.0",
+  "_npmUser": {
+    "name": "andreypopp",
+    "email": "8mayday@gmail.com"
+  },
+  "dist": {
+    "shasum": "67eeb0794e924719682c97b855315556c883c858",
+    "tarball": "https://registry.npmjs.org/react-textarea-autosize/-/react-textarea-autosize-4.0.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "andreypopp",
+      "email": "8mayday@gmail.com"
+    },
+    {
+      "name": "kylemathews",
+      "email": "mathews.kyle@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-textarea-autosize-4.0.2.tgz_1463510235810_0.29018940636888146"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-textarea-autosize/-/react-textarea-autosize-4.0.2.tgz"
 }
